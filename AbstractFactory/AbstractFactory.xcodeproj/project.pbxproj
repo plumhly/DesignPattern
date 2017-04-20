@@ -12,6 +12,8 @@
 		EF639B911EA83FCA0042539A /* Suspension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF639B901EA83FCA0042539A /* Suspension.swift */; };
 		EF639B931EA840BE0042539A /* Drivetrains.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF639B921EA840BE0042539A /* Drivetrains.swift */; };
 		EF639B951EA841AF0042539A /* CarsParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF639B941EA841AF0042539A /* CarsParts.swift */; };
+		EFAAE45C1EA8B316001D353D /* Abstract.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAAE45B1EA8B316001D353D /* Abstract.swift */; };
+		EFAAE45E1EA8B3F9001D353D /* Contrete.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAAE45D1EA8B3F9001D353D /* Contrete.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		EF639B901EA83FCA0042539A /* Suspension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Suspension.swift; sourceTree = "<group>"; };
 		EF639B921EA840BE0042539A /* Drivetrains.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Drivetrains.swift; sourceTree = "<group>"; };
 		EF639B941EA841AF0042539A /* CarsParts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarsParts.swift; sourceTree = "<group>"; };
+		EFAAE45B1EA8B316001D353D /* Abstract.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Abstract.swift; sourceTree = "<group>"; };
+		EFAAE45D1EA8B3F9001D353D /* Contrete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contrete.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 				EF639B901EA83FCA0042539A /* Suspension.swift */,
 				EF639B921EA840BE0042539A /* Drivetrains.swift */,
 				EF639B941EA841AF0042539A /* CarsParts.swift */,
+				EFAAE45B1EA8B316001D353D /* Abstract.swift */,
+				EFAAE45D1EA8B3F9001D353D /* Contrete.swift */,
 			);
 			path = AbstractFactory;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 				EF639B881EA83E230042539A /* main.swift in Sources */,
 				EF639B911EA83FCA0042539A /* Suspension.swift in Sources */,
 				EF639B8F1EA83E6D0042539A /* Floorplans.swift in Sources */,
+				EFAAE45E1EA8B3F9001D353D /* Contrete.swift in Sources */,
 				EF639B931EA840BE0042539A /* Drivetrains.swift in Sources */,
+				EFAAE45C1EA8B316001D353D /* Abstract.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,6 +279,7 @@
 				EF639B8D1EA83E230042539A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
