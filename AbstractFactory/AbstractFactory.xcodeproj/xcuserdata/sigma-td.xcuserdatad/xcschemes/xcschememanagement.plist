@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Test_Simulator.xcscheme</key>
+		<key>AbstractFactory.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>09B4AF7F1EA1493200B9DA74</key>
+		<key>EF639B831EA83E230042539A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

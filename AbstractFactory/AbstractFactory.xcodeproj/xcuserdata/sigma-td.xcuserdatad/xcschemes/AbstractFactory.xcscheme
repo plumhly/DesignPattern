@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "09B4AF7F1EA1493200B9DA74"
-               BuildableName = "Test_Simulator.app"
-               BlueprintName = "Test_Simulator"
-               ReferencedContainer = "container:Test_Simulator.xcodeproj">
+               BlueprintIdentifier = "EF639B831EA83E230042539A"
+               BuildableName = "AbstractFactory"
+               BlueprintName = "AbstractFactory"
+               ReferencedContainer = "container:AbstractFactory.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "09B4AF7F1EA1493200B9DA74"
-            BuildableName = "Test_Simulator.app"
-            BlueprintName = "Test_Simulator"
-            ReferencedContainer = "container:Test_Simulator.xcodeproj">
+            BlueprintIdentifier = "EF639B831EA83E230042539A"
+            BuildableName = "AbstractFactory"
+            BlueprintName = "AbstractFactory"
+            ReferencedContainer = "container:AbstractFactory.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "09B4AF7F1EA1493200B9DA74"
-            BuildableName = "Test_Simulator.app"
-            BlueprintName = "Test_Simulator"
-            ReferencedContainer = "container:Test_Simulator.xcodeproj">
+            BlueprintIdentifier = "EF639B831EA83E230042539A"
+            BuildableName = "AbstractFactory"
+            BlueprintName = "AbstractFactory"
+            ReferencedContainer = "container:AbstractFactory.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "09B4AF7F1EA1493200B9DA74"
-            BuildableName = "Test_Simulator.app"
-            BlueprintName = "Test_Simulator"
-            ReferencedContainer = "container:Test_Simulator.xcodeproj">
+            BlueprintIdentifier = "EF639B831EA83E230042539A"
+            BuildableName = "AbstractFactory"
+            BlueprintName = "AbstractFactory"
+            ReferencedContainer = "container:AbstractFactory.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
